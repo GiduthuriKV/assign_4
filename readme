@@ -1,1 +1,11 @@
+For code 1, 
+We read data.csv file using pandas 
+We do many data manipulations , we find null values , we consider all the colummns and perform filtering of data.
+We then plot the data
 
+For code 2,
+We read the salary.csv file
+We then copy the data salary column into Y and the years of experience into X.
+We then split the data into train and test split
+Then using sklearn linear regression model we train the model.
+We train until we then plot the results of the model.
